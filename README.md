@@ -1,5 +1,4 @@
 # GUI-Based-Banking-System-using-Python-
-# GUI-Based-Banking-System-using-Python-
 
 THE PROBLEM:
 1)Opening a new account in a bank usually requires a person to visit the bank, fill out a form, and submit the necessary papers. 
