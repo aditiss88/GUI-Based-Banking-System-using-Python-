@@ -33,4 +33,44 @@ Python 3.10.5
 Tk 8.5 or greater 
 
 SCREENSHOTS:
-![pic1](https://user-images.githubusercontent.com/89654500/172667339-408296cd-df7f-4787-a6ea-24adba949458.jpg)
+![pic1](https://user-images.githubusercontent.com/89654500/172672431-19b4c899-4bce-4160-8e10-fa1953391190.jpg)
+![pic2](https://user-images.githubusercontent.com/89654500/172672748-e56f4df8-e9ad-4259-8df0-96517b82d6b8.jpg)
+![pic3](https://user-images.githubusercontent.com/89654500/172672873-7e5a78d2-2366-4439-ba7f-31bf9ec3937f.jpg)
+![pic4](https://user-images.githubusercontent.com/89654500/172673117-b164161a-e975-41e2-9492-6da619295ef9.jpg)
+![pic5](https://user-images.githubusercontent.com/89654500/172673222-2ba4d2e9-a9ac-49c7-83f5-ee48f2a71a4c.jpg)
+![pic6](https://user-images.githubusercontent.com/89654500/172673292-d548282a-94e9-4223-9780-9a445bab3fe2.jpg)
+![pic7](https://user-images.githubusercontent.com/89654500/172673370-cd063af2-76c2-4f8f-a3ea-ed4db7587f4c.jpg)
+![pic8](https://user-images.githubusercontent.com/89654500/172673468-35c5082c-1f0b-4e92-b02e-8055124660bb.jpg)
+![pic9](https://user-images.githubusercontent.com/89654500/172673646-c0ac14cc-f745-4f55-a4b0-ddca345b5b19.jpg)
+![pic10](https://user-images.githubusercontent.com/89654500/172673775-298172b4-ea3d-453a-8eec-526d5dc62872.jpg)
+![pic11](https://user-images.githubusercontent.com/89654500/172673926-dfab1394-f4e3-433b-8179-4572517b2554.jpg)
+![pic12](https://user-images.githubusercontent.com/89654500/172674085-ebcf894b-d3ce-4b7d-afaf-9615c7c7f211.jpg)
+![pic13](https://user-images.githubusercontent.com/89654500/172674187-71d25578-c316-4aaf-8905-640fa44bacad.jpg)
+![pic14](https://user-images.githubusercontent.com/89654500/172674319-e4483c76-74fa-4f7a-ab9b-b1734e2ca30a.jpg)
+![pic15](https://user-images.githubusercontent.com/89654500/172674494-ef2180e2-7a1f-4a54-9af8-0d4ec9f58cea.jpg)
+![pic16](https://user-images.githubusercontent.com/89654500/172674634-2d9696bf-218f-4fbe-9fe7-173bc58f7670.jpg)
+
+REFERENCES/CREDITS:
+Below are the links which I have referred to make this project
+https://www.youtube.com/watch?v=71X58zIzrgA
+https://www.youtube.com/watch?v=0AKWbdBVY7c
+https://www.youtube.com/watch?v=ng5H3lGZ4m8&t=1824s
+https://www.geeksforgeeks.org/python-gui-tkinter/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
